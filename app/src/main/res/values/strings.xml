@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google encoder</string>
+    <string name="text_tab1">From</string>
+    <string name="text_tab2">To</string>
+    <string name="API_KEY">AIzaSyAxKUMsoNe52TZP3y0GGgC3nXqO5rER0gE</string>
+    <string name="text_tab_header">Свой заголовок</string>
+</resources>
